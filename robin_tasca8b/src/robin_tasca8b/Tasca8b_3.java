@@ -161,6 +161,7 @@ public class Tasca8b_3 {
 		}
 			
 		}
+		//Ha adivinat
 		System.out.printf("Has fet %d intents",intents);
 		in.close();
 	}
