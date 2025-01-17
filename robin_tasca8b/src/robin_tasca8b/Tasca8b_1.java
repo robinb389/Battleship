@@ -2,7 +2,7 @@
 package robin_tasca8b;
 
 import java.util.Scanner;
-
+// class
 public class Tasca8b_1 {
 	
 	public static void main(String[] args) {
